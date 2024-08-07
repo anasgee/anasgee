@@ -1,4 +1,4 @@
-## Hi there 👋
+## MERN Stack Developer 👋
 
 I'm Muhammad Anas, a dedicated MERN stack developer with a strong passion for building robust and scalable web applications. With over 1+ years of experience in front-end  and 6 months of specialized experience in the MERN stack, I strive to create seamless and efficient web solutions.
 
